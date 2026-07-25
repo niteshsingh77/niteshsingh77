@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Nitesh Singh
 
-<!--
-**niteshsingh77/niteshsingh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Java Full Stack Developer (Learning)
 
-Here are some ideas to get you started:
+I'm passionate about Java and currently learning Java Full Stack Development. I enjoy building real-world projects and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning Java Full Stack Development
+- 💻 Working with Core Java, JDBC, MySQL, Servlets
+- 🏦 Built a Banking Management System using Layered Architecture
+- 📚 Interested in Backend Development
+- 🚀 Always learning new technologies
+
+---
+
+## 🛠️ Skills
+
+- Core Java
+- JDBC
+- MySQL
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
