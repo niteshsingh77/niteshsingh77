@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nitesh Singh
 
-## 🚀 Java Full Stack Developer (Learning)
+##  Java Full Stack Developer (Learning)
 
 I'm passionate about Java and currently learning Java Full Stack Development. I enjoy building real-world projects and continuously improving my programming skills.
 
@@ -28,11 +28,11 @@ I'm passionate about Java and currently learning Java Full Stack Development. I 
 - Git
 - GitHub
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ---
 
-### 🏦 Banking Management System — Console Based
+###  Banking Management System — Console Based
 
 **Java • JDBC • MySQL • Layered Architecture**
 
@@ -43,3 +43,18 @@ I'm passionate about Java and currently learning Java Full Stack Development. I 
 - Followed Layered Architecture (DTO → DAO → Service → Main).
 - Connected the application with MySQL using JDBC.
 - Applied Exception Handling and Input Validation.
+
+
+
+## 🎓 Student Management System — Java Web Application
+
+**Java • Servlet • JDBC • MySQL • HTML • CSS • Apache Tomcat**
+
+- Developed a Java Web-based Student Management System using Servlets and JDBC.
+- Implemented complete CRUD operations (Create, Read, Update, Delete).
+- Added Student Registration and Login functionality.
+- Connected the application with MySQL Database.
+- Designed responsive UI using HTML and CSS.
+- Followed Layered Architecture (Servlet → Service → DTO → Database).
+- Implemented Exception Handling and Input Validation.
+- Deployed and tested on Apache Tomcat.
