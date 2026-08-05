@@ -19,7 +19,8 @@ I'm passionate about Java and currently learning Java Full Stack Development. I 
 ## 🛠️ Skills
 
 - Core Java
-- JDBC
+- JDBC (Java DataBase Connectivty)
+- Servlet
 - MySQL
 - SQL
 - HTML
