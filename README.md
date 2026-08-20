@@ -29,6 +29,17 @@ I'm passionate about Java and currently learning Java Full Stack Development. I 
 - Git
 - GitHub
 
+- ## 🧩 LeetCode & DSA
+
+---
+
+* 🚀 Regularly practicing Data Structures and Algorithms
+* 💻 Solving coding problems using Java
+* 🧠 Improving problem-solving and logical thinking
+* 📈 Consistently practicing on LeetCode
+* 🔥 Focusing on writing clean and optimized solutions
+
+
 ##  Featured Projects
 
 ---
