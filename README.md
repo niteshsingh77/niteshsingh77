@@ -18,8 +18,11 @@ I'm passionate about Java and currently learning Java Full Stack Development. I 
 
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
 - Core Java
-- JDBC (Java DataBase Connectivty)
+- Spring Boot
+- JDBC (Java Database Connectivity)
 - Servlet
 - MySQL
 - SQL
@@ -72,6 +75,10 @@ I'm passionate about Java and currently learning Java Full Stack Development. I 
 - Followed Layered Architecture (Servlet → Service → DTO → Database).
 - Implemented Exception Handling and Input Validation.
 - Deployed and tested on Apache Tomcat.
+
+
+---
+
 
 - ## 🎓 Student Management System — Spring Boot Web Application
 
