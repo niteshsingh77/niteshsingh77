@@ -18,8 +18,6 @@ I'm passionate about Java and currently learning Java Full Stack Development. I 
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
 - Core Java
 - Spring Boot
 - JDBC (Java Database Connectivity)
