@@ -72,3 +72,17 @@ I'm passionate about Java and currently learning Java Full Stack Development. I 
 - Followed Layered Architecture (Servlet → Service → DTO → Database).
 - Implemented Exception Handling and Input Validation.
 - Deployed and tested on Apache Tomcat.
+
+- ## 🎓 Student Management System — Spring Boot Web Application
+
+**Java • Spring Boot • Spring Data JPA • Hibernate • MySQL • Thymeleaf • HTML • CSS • Maven**
+
+- Developed a web-based Student Management System using Spring Boot.
+- Implemented CRUD operations (Create, Read, Update, Delete) to manage student records.
+- Created a student registration form to collect student details.
+- Integrated MySQL database using Spring Data JPA and Hibernate.
+- Used Thymeleaf to dynamically display student data on web pages.
+- Implemented MVC architecture using Controller, Service, Entity, and Repository layers.
+- Designed a user-friendly web interface using HTML and CSS.
+- Configured application properties and database connectivity.
+- Used Maven for project dependency management and build configuration.
